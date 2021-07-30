@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Airbnb</string>
+    <string name="geo_api_key">AIzaSyCzPCWeaoACu22U9MAWnlKlE5zq1poo1Nc</string>
+</resources>
